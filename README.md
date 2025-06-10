@@ -51,3 +51,6 @@ These credentials authenticate against the DummyJSON API.
 ## 📥 Clone the Repository
 
 ```bash
+git clone: https://github.com/Raja28/SalesSync.git
+npm install
+npm run dev
