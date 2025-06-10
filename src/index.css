@@ -1,0 +1,19 @@
+:root {
+    --color-primary: #3955ab;
+    --color-secondary: #6c757d;
+    --color-success: #28a745;
+    --color-danger: #dc3545;
+    --color-warning: #ffc107;
+    --color-dark: rgba(26, 2, 2, 0.728);
+    
+}
+
+.hoverable-title a {
+    cursor: pointer;
+     color: var(--color-primary);
+}
+
+.hoverable-title:hover a {
+    color: var(--color-primary);
+    color: #007bff;
+}
